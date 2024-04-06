@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\vs_projects\CppFileBinder\main.cpp(106,31): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+F:\vs_projects\CppFileBinder\main.cpp(107,31): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  CppFileBinder.vcxproj -> F:\vs_projects\CppFileBinder\x64\Debug\CppFileBinder.exe

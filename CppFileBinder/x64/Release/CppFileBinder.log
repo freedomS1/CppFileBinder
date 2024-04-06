@@ -1,0 +1,13 @@
+﻿  base64.cpp
+F:\vs_projects\CppFileBinder\base64.cpp(1,1): warning C4828: 文件包含在偏移 0xc33 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  main.cpp
+F:\vs_projects\CppFileBinder\main.cpp(49,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs_projects\CppFileBinder\main.cpp(301,61): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+F:\vs_projects\CppFileBinder\main.cpp(302,60): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+F:\vs_projects\CppFileBinder\main.cpp(303,81): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+F:\vs_projects\CppFileBinder\main.cpp(304,81): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 442 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CppFileBinder.vcxproj -> F:\vs_projects\CppFileBinder\x64\Release\CppFileBinder.exe
