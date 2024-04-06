@@ -2,9 +2,9 @@
 
 **A simple file binder implemented in c++ !**  （MingW）
 
-**Author:**XiaoYaoJ
+**Author:** XiaoYaoJ
 
-**Github:**https://github.com/xiaoyaoxianj
+**Github:** https://github.com/xiaoyaoxianj
 
 ### Usage:
 
