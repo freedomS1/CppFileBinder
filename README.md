@@ -8,11 +8,11 @@
 
 ### Usage:
 
-![](CppFileBinder\Usage.png)
+![](CppFileBinder/Usage.png)
 
 ### Example:
 
-![](CppFileBinder\Example.png)
+![](CppFileBinder/Example.png)
 
 ### Bug:
 
